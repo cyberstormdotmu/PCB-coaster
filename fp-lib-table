@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name logo)(type KiCad)(uri "D:/mug coaster/logo")(options "")(descr ""))
+  (lib (name logo1)(type KiCad)(uri "D:/test/tda2025 amp/ESP12-E breakout board/logo")(options "")(descr ""))
+)
